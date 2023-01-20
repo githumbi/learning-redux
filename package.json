@@ -1,0 +1,23 @@
+{
+  "name": "learning-redux",
+  "version": "1.0.0",
+  "description": "getting started with redux",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/githumbi/learning-redux.git"
+  },
+  "keywords": [],
+  "author": "Joseph Githumbi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/githumbi/learning-redux/issues"
+  },
+  "homepage": "https://github.com/githumbi/learning-redux#readme",
+  "dependencies": {
+    "redux": "^4.2.0"
+  }
+}
