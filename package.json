@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/githumbi/learning-redux#readme",
   "dependencies": {
-    "@reduxjs/toolkit": "^1.9.1"
+    "@reduxjs/toolkit": "^1.9.1",
+    "redux-logger": "^3.0.6"
   }
 }
